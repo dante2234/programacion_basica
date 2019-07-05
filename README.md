@@ -83,7 +83,7 @@ Un ejemplo del ciclo "for" puede ser el siguiente:
         farenheit = (1.8*celcius)+32
         print(celcius,'gC','|',farenheit,'gF')
 ![ejemplo en terminal](/imagenes/2.png)
-###Modulo Turlte 
+###Modulo Turtle
 Hay muchos módulos en python que proveen características poderosas que podemos usar en nuestros propios programas. Algunos de estos pueden enviar correos electrónicos y algunos de estos pueden extraer información de paginas de Internet. Para el manejo de gráficos usaremos un modulo que permite crear figuras y patrones. El modulo que se usara permiten desarrollar nuestro pensamiento computacional.
 
       
@@ -213,3 +213,6 @@ Por ejemplo:
     vocho.conducir()
     vocho.conducir() 
 
+entre otros puede incluir ciclos for y colores para una creacion de figuar y patrones en una pantalla.
+
+![ejemplo en terminal](/imagenes/5.png)
