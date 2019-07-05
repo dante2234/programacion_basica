@@ -12,7 +12,7 @@ programación funcional.
 para el curso de python se requerira el progama de anaconda python ya que este incluye las librerias necesarias sin nececidad de descargarlas aparte,
 con la ventaja de que incluye programas que facilitaran la programacion como lo son spyder, y visual studio code
 descargar [Anaconda Python]
-(https://www.anaconda.co
+(https://www.anaconda.com/distribution/)
 ### Operadores
 DATOS BASICOS
 
@@ -55,4 +55,4 @@ Un ejemplo de esto puede ser el siguiente:
     print('El resultado de "a" a la "b" es ' ,p)   
     import math    
     print('El logaritmo es ' ,math.log10(a))
-![ejemplo en terminal](/imagenes/1.png)m/distribution/)
+![ejemplo en terminal](/imagenes/1.png)
